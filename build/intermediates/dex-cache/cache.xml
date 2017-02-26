@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_c935e6a86d288b79e437e846b488c3c220231a35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\Desktop\Overview\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2784402cf0fa2cb322c6fc3ad1b48f8e9bf6cd7d">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b60dd531e355e4a98034d9745a39e410276d93b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\Desktop\Overview\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_f3f1583222698a6de17f9f0fe78b7bd47b077a27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\Desktop\Overview\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_98325fe94e0948a3ace8ab06c4c51fa1e42b074c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\Desktop\Overview\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_4d2544b5ed964dd028b6544c3e24de538e14287e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\Desktop\Overview\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_36a21ada16c57aa76c8f808cc7946cf448dc1c7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\Desktop\Overview\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_5371932714d1b70c8b0a0e31cd784fd03591dd15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\Desktop\Overview\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2461860b421bb0171367570be21dc425aaaa0dc9">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3859c32e8817b484e014793fae685376f61d241f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\Desktop\Overview\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_9ed1111f341c970ce846398295dbee764423069c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\Desktop\Overview\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_27de6a2b826bafc44864448f75e859590edf6c74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\Desktop\Overview\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_4dceb91643ca6046ba9048a070dd338456dc561b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jack\Desktop\Overview\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jack\Desktop\Overview\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_13934ab504d1a30d3be39040d4c224d1b8281d3a\classes.dex" />
+    </item>
+
+</items>
